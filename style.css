@@ -15,3 +15,14 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  @media only screen and (max-device-width: 800px) {
+    .parallax {
+      background-attachment: scroll;
+    }
+  }
+  .textheader{
+    color:white
+  }
+  .textWhite{
+    color: white;
+  }
